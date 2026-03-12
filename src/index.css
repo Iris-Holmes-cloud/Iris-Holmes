@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Georgia", serif;
+  --font-serif-body: "Georgia", serif;
+  --font-serif-display: "Georgia", serif;
+  --color-brand-accent: #E53922;
+  --color-brand-bg: #F9F9F9;
+}
+
+html {
+  scroll-behavior: smooth;
+}
