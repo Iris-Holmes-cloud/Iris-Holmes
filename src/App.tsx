@@ -578,7 +578,7 @@ function WorkPage() {
     },
     {
       category: "LANDING PAGES",
-      title: "Converting visitors into loyal customers through strategic copy.",
+      title: "Converting Visitors into Customers Through Strategic Copy",
       description: (
         <>
           <p className="mb-6">
@@ -593,7 +593,7 @@ function WorkPage() {
     },
     {
       category: "TECH BLOGS & TUTORIALS",
-      title: "Demystifying complex technologies for everyday users.",
+      title: "Demystifying Complex Technologies for Everyday Users",
       description: (
         <>
           <p className="mb-6">
